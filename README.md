@@ -10,7 +10,7 @@ This bias probe task investigates potential gender stereotypes in relation to sp
 
 - sports_distilbert.py
 - prompts.tsv
-- genderTest.tsv
+- results.tsv
 
 ## Replicate Process:
 Run in terminal:
@@ -19,7 +19,7 @@ Run in terminal:
 $ python3 sports_distilbert.py
 ```
 
-prompts.tsv is automatically read by the sports_distilbert file. DistilBERT's results are stored in genderTest.tsv. The point system used as an evaluation metric for the report is recorded within the terminal itself.
+prompts.tsv is automatically read by the sports_distilbert file. DistilBERT's results are stored in results.tsv. The point system used as an evaluation metric for the report is recorded within the terminal itself.
 
 ## Authors
 Rachel Shurberg, Hope Zhu
