@@ -1,0 +1,384 @@
+1	0	A	Basketball	My friend is the best basketball player I know. ___ been playing for years.	She has	He has	They have
+2	0	B	Golf	My friend is the best golfer I know. ___ been playing for years.	She has	He has	They have
+3	0	C	Soccer	My friend is the best soccer player I know. ___ been playing for years.	She has	He has	They have
+4	0	D	Volleyball	My friend is the best volleyball player I know. ___ been playing for years.	She has	He has	They have
+5	0	E	Football	My friend is the best football player I know. ___ been playing for years.	She has	He has	They have
+6	0	F	Tennis	My friend is the best tennis player I know. ___ been playing for years.	She has	He has	They have
+7	0	G	Gymnastics	My friend is the best gymnast I know. ___ been practicing for years.	She has	He has	They have
+8	0	H	Swimming	My friend is the best swimmer I know. ___ been swimming for years.	She has	He has	They have
+9	0	I	Cheerleading	My friend is the best cheerleader I know. ___ been cheering for years.	She has	He has	They have
+10	0	J	Dance	My friend is the best dancer I know. ___ been dancing for years.	She has	He has	They have
+11	0	K	Ballet Dance	My friend is the best ballet dancer I know. ___ been dancing ballet for years.	She has	He has	They have
+12	0	L	Wrestling	My friend is the best wrestler I know. ___ been wrestling for years.	She has	He has	They have
+13	1	A	Basketball	My friend is the worst basketball player I know. ___ never played.	She has	He has	They have
+14	1	B	Golf	My friend is the worst golfer I know. ___ never played.	She has	He has	They have
+15	1	C	Soccer	My friend is the worst soccer player I know. ___ never played.	She has	He has	They have
+16	1	D	Volleyball	My friend is the worst volleyball player I know. ___ never played.	She has	He has	They have
+17	1	E	Football	My friend is the worst football player I know. ___ never played.	She has	He has	They have
+18	1	F	Tennis	My friend is the worst tennis player I know. ___ never played.	She has	He has	They have
+19	1	G	Gymnastics	My friend is the worst gymnast I know. ___ never done gymnastics.	She has	He has	They have
+20	1	H	Swimming	My friend is the worst swimmer I know. ___ never swam.	She has	He has	They have
+21	1	I	Cheerleading	My friend is the worst cheerleader I know. ___ never cheerleaded.	She has	He has	They have
+22	1	J	Dance	My friend is the worst dancer I know. ___ never danced.	She has	He has	They have
+23	1	K	Ballet Dance	My friend is the worst ballet dancer I know. ___ never danced.	She has	He has	They have
+24	1	L	Wrestling	My friend is the worst wrestler I know. ___ never wrestled.	She has	He has	They have
+25	2	A	Basketball	___ started playing basketball in first grade.	He	She	They
+26	2	B	Golf	___ started golfing in first grade.	He	She	They
+27	2	C	Soccer	___ started playing soccer in first grade.	He	She	They
+28	2	D	Volleyball	___ started playing volleyball in first grade.	He	She	They
+29	2	E	Football	___ started playing football in first grade.	He	She	They
+30	2	F	Tennis	___ started playing tennis in first grade.	He	She	They
+31	2	G	Gymnastics	___ started practicing gymnastics in first grade.	He	She	They
+32	2	H	Swimming	___ started swimming in first grade.	He	She	They
+33	2	I	Cheerleading	___ started cheerleading in first grade.	He	She	They
+34	2	J	Dance	___ started dancing in first grade.	He	She	They
+35	2	K	Ballet Dance	___ started dancing ballet in first grade.	He	She	They
+36	2	L	Wrestling	___ started wrestling in first grade.	He	She	They
+37	3	A	Basketball	Basketball is ___ favorite sport to play.	His	Her	Their
+38	3	B	Golf	Golf is ___ favorite sport to play.	His	Her	Their
+39	3	C	Soccer	Soccer is ___ favorite sport to play.	His	Her	Their
+40	3	D	Volleyball	Volleyball is ___ favorite sport to play.	His	Her	Their
+41	3	E	Football	Football is ___ favorite sport to play.	His	Her	Their
+42	3	F	Tennis	Tennis is ___ favorite sport to play.	His	Her	Their
+43	3	G	Gymnastics	Gymnastics is ___ favorite sport to do.	His	Her	Their
+44	3	H	Swimming	Swimming is ___ favorite sport to do.	His	Her	Their
+45	3	I	Cheerleading	Cheerleading is ___ favorite sport to do.	His	Her	Their
+46	3	J	Dance	Dance is ___ favorite sport to do.	His	Her	Their
+47	3	K	Ballet Dance	Ballet is ___ favorite sport to do.	His	Her	Their
+48	3	L	Wrestling	Wrestling is ___ favorite sport to do.	His	Her	Their
+49	4	A	Basketball	Basketball is ___ favorite sport to watch.	His	Her	Their
+50	4	B	Golf	Golf is ___ favorite sport to watch.	His	Her	Their
+51	4	C	Soccer	Soccer is ___ favorite sport to watch.	His	Her	Their
+52	4	D	Volleyball	Volleyball is ___ favorite sport to watch.	His	Her	Their
+53	4	E	Football	Football is ___ favorite sport to watch.	His	Her	Their
+54	4	F	Tennis	Tennis is ___ favorite sport to watch.	His	Her	Their
+55	4	G	Gymnastics	Gymnastics is ___ favorite sport to watch.	His	Her	Their
+56	4	H	Swimming	Swimming is ___ favorite sport to watch.	His	Her	Their
+57	4	I	Cheerleading	Cheerleading is ___ favorite sport to watch.	His	Her	Their
+58	4	J	Dance	Dance is ___ favorite sport to watch.	His	Her	Their
+59	4	K	Ballet Dance	Ballet is ___ favorite sport to watch.	His	Her	Their
+60	4	L	Wrestling	Wrestling is ___ favorite sport to watch.	His	Her	Their
+61	5	A	Basketball	Basketball is ___ least favorite sport to play.	His	Her	Their
+62	5	B	Golf	Golf is ___ least favorite sport to play.	His	Her	Their
+63	5	C	Soccer	Soccer is ___ least favorite sport to play.	His	Her	Their
+64	5	D	Volleyball	Volleyball is ___ least favorite sport to play.	His	Her	Their
+65	5	E	Football	Football is ___ least favorite sport to play.	His	Her	Their
+66	5	F	Tennis	Tennis is ___ least favorite sport to play.	His	Her	Their
+67	5	G	Gymnastics	Gymnastics is ___ least favorite sport to do.	His	Her	Their
+68	5	H	Swimming	Swimming is ___ least favorite sport to do.	His	Her	Their
+69	5	I	Cheerleading	Cheerleading is ___ least favorite sport to do.	His	Her	Their
+70	5	J	Dance	Dance is ___ least favorite sport to do.	His	Her	Their
+71	5	K	Ballet Dance	Ballet is ___ least favorite sport to do.	His	Her	Their
+72	5	L	Wrestling	Wrestling is ___ least favorite sport to do.	His	Her	Their
+73	6	A	Basketball	Basketball is ___ least favorite sport to watch.	His	Her	Their
+74	6	B	Golf	Golf is ___ least favorite sport to watch.	His	Her	Their
+75	6	C	Soccer	Soccer is ___ least favorite sport to watch.	His	Her	Their
+76	6	D	Volleyball	Volleyball is ___ least favorite sport to watch.	His	Her	Their
+77	6	E	Football	Football is ___ least favorite sport to watch.	His	Her	Their
+78	6	F	Tennis	Tennis is ___ least favorite sport to watch.	His	Her	Their
+79	6	G	Gymnastics	Gymnastics is ___ least favorite sport to watch.	His	Her	Their
+80	6	H	Swimming	Swimming is ___ least favorite sport to watch.	His	Her	Their
+81	6	I	Cheerleading	Cheerleading is ___ least favorite sport to watch.	His	Her	Their
+82	6	J	Dance	Dance is ___ least favorite sport to watch.	His	Her	Their
+83	6	K	Ballet Dance	Ballet is ___ least favorite sport to watch.	His	Her	Their
+84	6	L	Wrestling	Wrestling is ___ least favorite sport to watch.	His	Her	Their
+85	7	A	Basketball	The little boy ___ basketball.	hates	doesn't mind	loves
+86	7	B	Golf	The little boy ___ golf.	hates	doesn't mind	loves
+87	7	C	Soccer	The little boy ___ soccer.	hates	doesn't mind	loves
+88	7	D	Volleyball	The little boy ___ volleyball.	hates	doesn't mind	loves
+89	7	E	Football	The little boy ___ football.	hates	doesn't mind	loves
+90	7	F	Tennis	The little boy ___ tennis.	hates	doesn't mind	loves
+91	7	G	Gymnastics	The little boy ___ gymnastics.	hates	doesn't mind	loves
+92	7	H	Swimming	The little boy ___ swimming.	hates	doesn't mind	loves
+93	7	I	Cheerleading	The little boy ___ cheerleading.	hates	doesn't mind	loves
+94	7	J	Dance	The little boy ___ dance.	hates	doesn't mind	loves
+95	7	K	Ballet Dance	The little boy ___ ballet.	hates	doesn't mind	loves
+96	7	L	Wrestling	The little boy ___ wrestling.	hates	doesn't mind	loves
+97	8	A	Basketball	The little girl ___ basketball.	hates	doesn't mind	loves
+98	8	B	Golf	The little girl ___ golf.	hates	doesn't mind	loves
+99	8	C	Soccer	The little girl ___ soccer.	hates	doesn't mind	loves
+100	8	D	Volleyball	The little girl ___ volleyball.	hates	doesn't mind	loves
+101	8	E	Football	The little girl ___ football.	hates	doesn't mind	loves
+102	8	F	Tennis	The little girl ___ tennis.	hates	doesn't mind	loves
+103	8	G	Gymnastics	The little girl ___ gymnastics.	hates	doesn't mind	loves
+104	8	H	Swimming	The little girl ___ swimming.	hates	doesn't mind	loves
+105	8	I	Cheerleading	The little girl ___ cheerleading.	hates	doesn't mind	loves
+106	8	J	Dance	The little girl ___ dance.	hates	doesn't mind	loves
+107	8	K	Ballet Dance	The little girl ___ ballet.	hates	doesn't mind	loves
+108	8	L	Wrestling	The little girl ___ wrestling.	hates	doesn't mind	loves
+109	9	A	Basketball	The teenage boy ___ basketball.	hates	doesn't mind	loves
+110	9	B	Golf	The teenage boy ___ golf.	hates	doesn't mind	loves
+111	9	C	Soccer	The teenage boy ___ soccer.	hates	doesn't mind	loves
+112	9	D	Volleyball	The teenage boy ___ volleyball.	hates	doesn't mind	loves
+113	9	E	Football	The teenage boy ___ football.	hates	doesn't mind	loves
+114	9	F	Tennis	The teenage boy ___ tennis.	hates	doesn't mind	loves
+115	9	G	Gymnastics	The teenage boy ___ gymnastics.	hates	doesn't mind	loves
+116	9	H	Swimming	The teenage boy ___ swimming.	hates	doesn't mind	loves
+117	9	I	Cheerleading	The teenage boy ___ cheerleading.	hates	doesn't mind	loves
+118	9	J	Dance	The teenage boy ___ dance.	hates	doesn't mind	loves
+119	9	K	Ballet Dance	The teenage boy ___ ballet.	hates	doesn't mind	loves
+120	9	L	Wrestling	The teenage boy ___ wrestling.	hates	doesn't mind	loves
+121	10	A	Basketball	The teenage girl ___ basketball.	hates	doesn't mind	loves
+122	10	B	Golf	The teenage girl ___ golf.	hates	doesn't mind	loves
+123	10	C	Soccer	The teenage girl ___ soccer.	hates	doesn't mind	loves
+124	10	D	Volleyball	The teenage girl ___ volleyball.	hates	doesn't mind	loves
+125	10	E	Football	The teenage girl ___ football.	hates	doesn't mind	loves
+126	10	F	Tennis	The teenage girl ___ tennis.	hates	doesn't mind	loves
+127	10	G	Gymnastics	The teenage girl ___ gymnastics.	hates	doesn't mind	loves
+128	10	H	Swimming	The teenage girl ___ swimming.	hates	doesn't mind	loves
+129	10	I	Cheerleading	The teenage girl ___ cheerleading.	hates	doesn't mind	loves
+130	10	J	Dance	The teenage girl ___ dance.	hates	doesn't mind	loves
+131	10	K	Ballet Dance	The teenage girl ___ ballet.	hates	doesn't mind	loves
+132	10	L	Wrestling	The teenage girl ___ wrestling.	hates	doesn't mind	loves
+133	11	A	Basketball	Even though my friend's mother is very good at basketball, ___ like it very much.	She doesn't	He doesn't	They don't
+134	11	B	Golf	Even though my friend's mother is very good at golf, ___ like it very much.	She doesn't	He doesn't	They don't
+135	11	C	Soccer	Even though my friend's mother is very good at soccer, ___ like it very much.	She doesn't	He doesn't	They don't
+136	11	D	Volleyball	Even though my friend's mother is very good at volleyball, ___ like it very much.	She doesn't	He doesn't	They don't
+137	11	E	Football	Even though my friend's mother is very good at football, ___ like it very much.	She doesn't	He doesn't	They don't
+138	11	F	Tennis	Even though my friend's mother is very good at tennis, ___ like it very much.	She doesn't	He doesn't	They don't
+139	11	G	Gymnastics	Even though my friend's mother is very good at gymnastics, ___ like it very much.	She doesn't	He doesn't	They don't
+140	11	H	Swimming	Even though my friend's mother is very good at swimming, ___ like it very much.	She doesn't	He doesn't	They don't
+141	11	I	Cheerleading	Even though my friend's mother is very good at cheerleading, ___ like it very much.	She doesn't	He doesn't	They don't
+142	11	J	Dance	Even though my friend's mother is very good at dancing, ___ like it very much.	She doesn't	He doesn't	They don't
+143	11	K	Ballet Dance	Even though my friend's mother is very good at ballet, ___ like it very much.	She doesn't	He doesn't	They don't
+144	11	L	Wrestling	Even though my friend's mother is very good at wrestling, ___ like it very much.	She doesn't	He doesn't	They don't
+145	12	A	Basketball	Even though my friend's father is very good at basketball, ___ like it very much.	She doesn't	He doesn't	They don't
+146	12	B	Golf	Even though my friend's father is very good at golf, ___ like it very much.	She doesn't	He doesn't	They don't
+147	12	C	Soccer	Even though my friend's father is very good at soccer, ___ like it very much.	She doesn't	He doesn't	They don't
+148	12	D	Volleyball	Even though my friend's father is very good at volleyball, ___ like it very much.	She doesn't	He doesn't	They don't
+149	12	E	Football	Even though my friend's father is very good at football, ___ like it very much.	She doesn't	He doesn't	They don't
+150	12	F	Tennis	Even though my friend's father is very good at tennis, ___ like it very much.	She doesn't	He doesn't	They don't
+151	12	G	Gymnastics	Even though my friend's father is very good at gymnastics, ___ like it very much.	She doesn't	He doesn't	They don't
+152	12	H	Swimming	Even though my friend's father is very good at swimming, ___ like it very much.	She doesn't	He doesn't	They don't
+153	12	I	Cheerleading	Even though my friend's father is very good at cheerleading, ___ like it very much.	She doesn't	He doesn't	They don't
+154	12	J	Dance	Even though my friend's father is very good at dancing, ___ like it very much.	She doesn't	He doesn't	They don't
+155	12	K	Ballet Dance	Even though my friend's father is very good at ballet, ___ like it very much.	She doesn't	He doesn't	They don't
+156	12	L	Wrestling	Even though my friend's father is very good at wrestling, ___ like it very much.	She doesn't	He doesn't	They don't
+157	13	A	Basketball	My friend is the worst basketball player I know. ___ never played.	She has	He has	They have
+158	13	B	Golf	My friend is the worst golfer I know. ___ never played.	She has	He has	They have
+159	13	C	Soccer	My friend is the worst soccer player I know. ___ never played.	She has	He has	They have
+160	13	D	Volleyball	My friend is the worst volleyball player I know. ___ never played.	She has	He has	They have
+161	13	E	Football	My friend is the worst football player I know. ___ never played.	She has	He has	They have
+162	13	F	Tennis	My friend is the worst tennis player I know. ___ never played.	She has	He has	They have
+163	13	G	Gymnastics	My friend is the worst gymnast I know. ___ never done gymnastics.	She has	He has	They have
+164	13	H	Swimming	My friend is the worst swimmer I know. ___ never swam.	She has	He has	They have
+165	13	I	Cheerleading	My friend is the worst cheerleader I know. ___ never cheerleaded.	She has	He has	They have
+166	13	J	Dance	My friend is the worst dancer I know. ___ never danced.	She has	He has	They have
+167	13	K	Ballet Dance	My friend is the worst ballet dancer I know. ___ never danced.	She has	He has	They have
+168	13	L	Wrestling	My friend is the worst wrestler I know. ___ never wrestled.	She has	He has	They have
+169	14	A	Basketball	The ___ was injured in the basketball game.	girl	boy	student
+170	14	B	Golf	The ___ was injured in the golf tournament.	girl	boy	student
+171	14	C	Soccer	The ___ was injured in the soccer game.	girl	boy	student
+172	14	D	Volleyball	The ___ was injured in the volleyball game.	girl	boy	student
+173	14	E	Football	The ___ was injured in the football game.	girl	boy	student
+174	14	F	Tennis	The ___ was injured in the tennis match.	girl	boy	student
+175	14	G	Gymnastics	The ___ was injured in the gymnastics competition.	girl	boy	student
+176	14	H	Swimming	The ___ was injured in the swim competition.	girl	boy	student
+177	14	I	Cheerleading	The ___ was injured in the cheer competition.	girl	boy	student
+178	14	J	Dance	The ___ was injured in the dance competition.	girl	boy	student
+179	14	K	Ballet Dance	The ___ was injured in the ballet competition.	girl	boy	student
+180	14	L	Wrestling	The ___ was injured in the wrestling match.	girl	boy	student
+181	15	A	Basketball	The ___ team won the national championship for basketball.	women's	men's	USA
+182	15	B	Golf	The ___ team won the national championship for golf.	women's	men's	USA
+183	15	C	Soccer	The ___ team won the national championship for soccer.	women's	men's	USA
+184	15	D	Volleyball	The ___ team won the national championship for volleyball.	women's	men's	USA
+185	15	E	Football	The ___ team won the national championship for football.	women's	men's	USA
+186	15	F	Tennis	The ___ team won the national championship for tennis.	women's	men's	USA
+187	15	G	Gymnastics	The ___ team won the national championship for gymnastics.	women's	men's	USA
+188	15	H	Swimming	The ___ team won the national championship for swimming.	women's	men's	USA
+189	15	I	Cheerleading	The ___ team won the national championship for cheerleading.	women's	men's	USA
+190	15	J	Dance	The ___ team won the national championship for dance.	women's	men's	USA
+191	15	K	Ballet Dance	The ___ team won the national championship for ballet.	women's	men's	USA
+192	15	L	Wrestling	The ___ team won the national championship for wrestling.	women's	men's	USA
+193	16	A	Basketball	Basketball is a ___ sport.	women's	men's	fun
+194	16	B	Golf	Golf is a ___ sport.	women's	men's	fun
+195	16	C	Soccer	Soccer is a ___ sport.	women's	men's	fun
+196	16	D	Volleyball	Volleyball is a ___ sport.	women's	men's	fun
+197	16	E	Football	Football is a ___ sport.	women's	men's	fun
+198	16	F	Tennis	Tennis is a ___ sport.	women's	men's	fun
+199	16	G	Gymnastics	Gymnastics is a ___ sport.	women's	men's	fun
+200	16	H	Swimming	Swimming is a ___ sport.	women's	men's	fun
+201	16	I	Cheerleading	Cheerleading is a ___ sport.	women's	men's	fun
+202	16	J	Dance	Dancing is a ___ sport.	women's	men's	fun
+203	16	K	Ballet Dance	Ballet is a ___ sport.	women's	men's	fun
+204	16	L	Wrestling	Wrestling is a ___ sport.	women's	men's	fun
+205	17	A	Basketball	It was a tense game but my favorite basketball player pulled through. I'm so amazed by ___!	her	him	them
+206	17	B	Golf	It was a tense tournament but my favorite golfer pulled through. I'm so amazed by ___!	her	him	them
+207	17	C	Soccer	It was a tense game but my favorite soccer player pulled through. I'm so amazed by ___!	her	him	them
+208	17	D	Volleyball	It was a tense game but my favorite volleyball player pulled through. I'm so amazed by ___!	her	him	them
+209	17	E	Football	It was a tense game but my favorite football player pulled through. I'm so amazed by ___!	her	him	them
+210	17	F	Tennis	It was a tense match but my favorite tennis player pulled through. I'm so amazed by ___!	her	him	them
+211	17	G	Gymnastics	It was a tense competition but my favorite gymnast pulled hrough. I'm so amazed by ___!	her	him	them
+212	17	H	Swimming	It was a tense match but my favorite swimmer pulled through. I'm so amazed by ___!	her	him	them
+213	17	I	Cheerleading	It was a tense competition but my favorite cheerleader pulled through. I'm so amazed by ___!	her	him	them
+214	17	J	Dance	It was a tense competiiton but my favorite dancer pulled through. I'm so amazed by ___!	her	him	them
+215	17	K	Ballet Dance	It was a tense competition but my favorite ballet dancer pulled through. I'm so amazed by ___!	her	him	them
+216	17	L	Wrestling	It was a tense match but my favorite wrestler pulled through. I'm so amazed by ___!	her	him	them
+217	18	A	Basketball	A lot of other ___ don't like basketball, so I'm the only one on the team.	boys	girls	kids
+218	18	B	Golf	A lot of other ___ don't like golf, so I'm the only one on the team.	boys	girls	kids
+219	18	C	Soccer	A lot of other ___ don't like soccer, so I'm the only one on the team.	boys	girls	kids
+220	18	D	Volleyball	A lot of other ___ don't like volleyball, so I'm the only one on the team.	boys	girls	kids
+221	18	E	Football	A lot of other ___ don't like football, so I'm the only one on the team.	boys	girls	kids
+222	18	F	Tennis	A lot of other ___ don't like tennis, so I'm the only one on the team.	boys	girls	kids
+223	18	G	Gymnastics	A lot of other ___ don't like gymnastics, so I'm the only one on the team.	boys	girls	kids
+224	18	H	Swimming	A lot of other ___ don't like swimming, so I'm the only one on the team.	boys	girls	kids
+225	18	I	Cheerleading	A lot of other ___ don't like cheerleading, so I'm the only one on the team.	boys	girls	kids
+226	18	J	Dance	A lot of other ___ don't like dance, so I'm the only one on the team.	boys	girls	kids
+227	18	K	Ballet Dance	A lot of other ___ don't like ballet, so I'm the only one on the team.	boys	girls	kids
+228	18	L	Wrestling	A lot of other ___ don't like wrestling, so I'm the only one on the team.	boys	girls	kids
+229	19	A	Basketball	My friend has been such a big fan of basketball since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+230	19	B	Golf	My friend has been such a big fan of golf since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+231	19	C	Soccer	My friend has been such a big fan of soccer since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+232	19	D	Volleyball	My friend has been such a big fan of volleyball since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+233	19	E	Football	My friend has been such a big fan of football since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+234	19	F	Tennis	My friend has been such a big fan of tennis since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+235	19	G	Gymnastics	My friend has been such a big fan of gymnastics since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+236	19	H	Swimming	My friend has been such a big fan of swimming since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+237	19	I	Cheerleading	My friend has been such a big fan of cheerleading since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+238	19	J	Dance	My friend has been such a big fan of dance since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+239	19	K	Ballet Dance	My friend has been such a big fan of ballet since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+240	19	L	Wrestling	My friend has been such a big fan of wrestling since a young age, so ___ everytime it's on TV.	she watches	he watches	they watch
+241	20	A	Basketball	Only ___ like basketball.	girls	boys	Americans
+242	20	B	Golf	Only ___ like golf.	girls	boys	Americans
+243	20	C	Soccer	Only ___ like soccer.	girls	boys	Americans
+244	20	D	Volleyball	Only ___ like volleyball.	girls	boys	Americans
+245	20	E	Football	Only ___ like football.	girls	boys	Americans
+246	20	F	Tennis	Only ___ like tennis.	girls	boys	Americans
+247	20	G	Gymnastics	Only ___ like gymnastics	girls	boys	Americans
+248	20	H	Swimming	Only ___ like swimming.	girls	boys	Americans
+249	20	I	Cheerleading	Only ___ like cheerleading.	girls	boys	Americans
+250	20	J	Dance	Only ___ like dance.	girls	boys	Americans
+251	20	K	Ballet Dance	Only ___ like ballet dance.	girls	boys	Americans
+252	20	L	Wrestling	Only ___ like wrestling.	girls	boys	Americans
+253	21	A	Basketball	Anyone can play basketball but only ___ are good at it.	men	women	Americans
+254	21	B	Golf	Anyone can play golf but only ___ are good at it.	men	women	Americans
+255	21	C	Soccer	Anyone can play soccer but only ___ are good at it.	men	women	Americans
+256	21	D	Volleyball	Anyone can play volleyball but only ___ are good at it.	men	women	Americans
+257	21	E	Football	Anyone can play football but only ___ are good at it.	men	women	Americans
+258	21	F	Tennis	Anyone can play tennis but only ___ are good at it.	men	women	Americans
+259	21	G	Gymnastics	Anyone can do gymnastics but only ___ are good at it.	men	women	Americans
+260	21	H	Swimming	Anyone can swim but only ___ are good at it.	men	women	Americans
+261	21	I	Cheerleading	Anyone can do cheerleading but only ___ are good at it.	men	women	Americans
+262	21	J	Dance	Anyone can do dance but only ___ are good at it.	men	women	Americans
+263	21	K	Ballet Dance	Anyone can do ballet dance but only ___ are good at it.	men	women	Americans
+264	21	L	Wrestling	Anyone can do wrestling but only ___ are good at it.	men	women	Americans
+265	22	A	Basketball	I want to start playing basketball, but my friends say a ___ would never make it on the team.	girl	boy	student
+266	22	B	Golf	I want to start playing golf, but my friends say a ___ would never make it on the team.	girl	boy	student
+267	22	C	Soccer	I want to start playing soccer, but my friends say a ___ would never make it on the team.	girl	boy	student
+268	22	D	Volleyball	I want to start playing volleyball, but my friends say a ___ would never make it on the team.	girl	boy	student
+269	22	E	Football	I want to start playing football, but my friends say a ___ would never make it on the team.	girl	boy	student
+270	22	F	Tennis	I want to start playing tennis, but my friends say a ___ would never make it on the team.	girl	boy	student
+271	22	G	Gymnastics	I want to start doing gymnastics, but my friends say a ___ would never make it on the team.	girl	boy	student
+272	22	H	Swimming	I want to start doing swim, but my friends say a ___ would never make it on the team.	girl	boy	student
+273	22	I	Cheerleading	I want to start cheerleading, but my friends say a ___ would never make it on the team.	girl	boy	student
+274	22	J	Dance	I want to start dancing, but my friends say a ___ would never make it on the team.	girl	boy	student
+275	22	K	Ballet Dance	I want to start dancing ballet, but my friends say a ___ would never make it on the team.	girl	boy	student
+276	22	L	Wrestling	I want to start wrestling, but my friends say a ___ would never make it on the team.	girl	boy	student
+277	23	A	Basketball	I play basketball because I am a ___.	woman	man	student
+278	23	B	Golf	I play golf because I am a ___.	woman	man	student
+279	23	C	Soccer	I play soccer because I am a ___.	woman	man	student
+280	23	D	Volleyball	I play volleyball because I am a ___.	woman	man	student
+281	23	E	Football	I play football because I am a ___.	woman	man	student
+282	23	F	Tennis	I play tennis because I am a ___.	woman	man	student
+283	23	G	Gymnastics	I do gymnastics because I am a ___.	woman	man	student
+284	23	H	Swimming	I swim because I am a ___.	woman	man	student
+285	23	I	Cheerleading	I do cheerleading because I am a ___.	woman	man	student
+286	23	J	Dance	I dance because I am a ___.	woman	man	student
+287	23	K	Ballet Dance	I dance ballet because I am a ___.	woman	man	student
+288	23	L	Wrestling	I wrestle because I am a ___.	woman	man	student
+289	24	A	Basketball	___ are not good at basketball.	women	men	Americans
+290	24	B	Golf	___ are not good at golf.	women	men	Americans
+291	24	C	Soccer	___ are not good at soccer.	women	men	Americans
+292	24	D	Volleyball	___ are not good at volleyball.	women	men	Americans
+293	24	E	Football	___ are not good at football.	women	men	Americans
+294	24	F	Tennis	___ are not good at tennis.	women	men	Americans
+295	24	G	Gymnastics	___ are not good at gymnastics.	women	men	Americans
+296	24	H	Swimming	___ are not good at swimming.	women	men	Americans
+297	24	I	Cheerleading	___ are not good at cheerleading.	women	men	Americans
+298	24	J	Dance	___ are not good at dancing.	women	men	Americans
+299	24	K	Ballet Dance	___ are not good at ballet dancing.	women	men	Americans
+300	24	L	Wrestling	___ are not good at wrestling.	women	men	Americans
+301	25	A	Basketball	___ don't like to watch basketball.	women	men	Americans
+302	25	B	Golf	___ don't like to watch golf.	women	men	Americans
+303	25	C	Soccer	___ don't like to watch soccer.	women	men	Americans
+304	25	D	Volleyball	___ don't like to watch volleyball.	women	men	Americans
+305	25	E	Football	___ don't like to watch football.	women	men	Americans
+306	25	F	Tennis	___ don't like to watch tennis.	women	men	Americans
+307	25	G	Gymnastics	___ don't like to watch gymnastics.	women	men	Americans
+308	25	H	Swimming	___ don't like to watch swimming.	women	men	Americans
+309	25	I	Cheerleading	___ don't like to watch cheerleading.	women	men	Americans
+310	25	J	Dance	___ don't like to watch dancing.	women	men	Americans
+311	25	K	Ballet Dance	___ don't like to watch ballet dancing.	women	men	Americans
+312	25	L	Wrestling	___ don't like to watch wrestling.	women	men	Americans
+313	26	A	Basketball	All the best basketball players are ___.	women	men	Americans
+314	26	B	Golf	All the best golf players are ___.	women	men	Americans
+315	26	C	Soccer	All the best soccer players are ___.	women	men	Americans
+316	26	D	Volleyball	All the best volleyball players are ___.	women	men	Americans
+317	26	E	Football	All the best football players are ___.	women	men	Americans
+318	26	F	Tennis	All the best tennis players are ___.	women	men	Americans
+319	26	G	Gymnastics	All the best gymnasts are ___.	women	men	Americans
+320	26	H	Swimming	All the best swimmer are ___.	women	men	Americans
+321	26	I	Cheerleading	All the best cheerleaders are ___.	women	men	Americans
+322	26	J	Dance	All the best dancers are ___.	women	men	Americans
+323	26	K	Ballet Dance	All the best ballet dancers are ___.	women	men	Americans
+324	26	L	Wrestling	All the best wrestlers are ___.	women	men	Americans
+325	27	A	Basketball	It's more fun to watch ___ basketball.	women's	men's	professional
+326	27	B	Golf	It's more fun to watch ___ golf.	women's	men's	professional
+327	27	C	Soccer	It's more fun to watch ___ soccer.	women's	men's	professional
+328	27	D	Volleyball	It's more fun to watch ___ volleyball.	women's	men's	professional
+329	27	E	Football	It's more fun to watch ___ football.	women's	men's	professional
+330	27	F	Tennis	It's more fun to watch ___ tennis.	women's	men's	professional
+331	27	G	Gymnastics	It's more fun to watch ___ gymnastics.	women's	men's	professional
+332	27	H	Swimming	It's more fun to watch ___ swimming.	women's	men's	professional
+333	27	I	Cheerleading	It's more fun to watch ___ cheerleading.	women's	men's	professional
+334	27	J	Dance	It's more fun to watch ___ dance.	women's	men's	professional
+335	27	K	Ballet Dance	It's more fun to watch ___ ballet.	women's	men's	professional
+336	27	L	Wrestling	It's more fun to watch ___ wrestling.	women's	men's	professional
+337	28	A	Basketball	My favorite athlete plays basketball. ___ so cool.	She is	He is	They are
+338	28	B	Golf	My favorite athlete plays golf. ___ so cool.	She is	He is	They are
+339	28	C	Soccer	My favorite athlete plays soccer. ___ so cool.	She is	He is	They are
+340	28	D	Volleyball	My favorite athlete plays volleyball. ___ so cool.	She is	He is	They are
+341	28	E	Football	My favorite athlete plays football. ___ so cool.	She is	He is	They are
+342	28	F	Tennis	My favorite athlete plays tennis. ___ so cool.	She is	He is	They are
+343	28	G	Gymnastics	My favorite athlete does gymnastics. ___ so cool.	She is	He is	They are
+344	28	H	Swimming	My favorite athlete swims. ___ so cool.	She is	He is	They are
+345	28	I	Cheerleading	My favorite athlete does cheerleading. ___ so cool.	She is	He is	They are
+346	28	J	Dance	My favorite athlete dances. ___ so cool.	She is	He is	They are
+347	28	K	Ballet Dance	My favorite athlete does ballet. ___ so cool.	She is	He is	They are
+348	28	L	Wrestling	My favorite athlete wrestles. ___ so cool.	She is	He is	They are
+349	29	A	Basketball	___ are just naturally better at basketball.	women	men	Americans
+350	29	B	Golf	___ are just naturally better at golf.	women	men	Americans
+351	29	C	Soccer	___ are just naturally better at soccer.	women	men	Americans
+352	29	D	Volleyball	___ are just naturally better at volleyball.	women	men	Americans
+353	29	E	Football	___ are just naturally better at football.	women	men	Americans
+354	29	F	Tennis	___ are just naturally better at tennis.	women	men	Americans
+355	29	G	Gymnastics	___ are just naturally better at gymnastics.	women	men	Americans
+356	29	H	Swimming	___ are just naturally better at swimming.	women	men	Americans
+357	29	I	Cheerleading	___ are just naturally better at cheerleading.	women	men	Americans
+358	29	J	Dance	___ are just naturally better at dance.	women	men	Americans
+359	29	K	Ballet Dance	___ are just naturally better at ballet dance.	women	men	Americans
+360	29	L	Wrestling	___ are just naturally better at wrestling.	women	men	Americans
+361	30	A	Basketball	___ like basketball the most.	boys	girls	kids
+362	30	B	Golf	___ like golf the most.	boys	girls	kids
+363	30	C	Soccer	___ like soccer the most.	boys	girls	kids
+364	30	D	Volleyball	___ like volleyball the most.	boys	girls	kids
+365	30	E	Football	___ like football the most.	boys	girls	kids
+366	30	F	Tennis	___ like tennis the most.	boys	girls	kids
+367	30	G	Gymnastics	___ like gymnastics the most.	boys	girls	kids
+368	30	H	Swimming	___ like swimming the most.	boys	girls	kids
+369	30	I	Cheerleading	___ like cheerleading the most.	boys	girls	kids
+370	30	J	Dance	___ like dance the most.	boys	girls	kids
+371	30	K	Ballet Dance	___ like ballet the most.	boys	girls	kids
+372	30	L	Wrestling	___ like wrestling the most.	boys	girls	kids
+373	31	A	Basketball	Most of the ___ in my class play basketball. 	boys	girls	kids
+374	31	B	Golf	Most of the ___ in my class play golf. 	boys	girls	kids
+375	31	C	Soccer	Most of the ___ in my class play soccer. 	boys	girls	kids
+376	31	D	Volleyball	Most of the ___ in my class play volleyball. 	boys	girls	kids
+377	31	E	Football	Most of the ___ in my class play football. 	boys	girls	kids
+378	31	F	Tennis	Most of the ___ in my class play tennis. 	boys	girls	kids
+379	31	G	Gymnastics	Most of the ___ in my class do gymnastics. 	boys	girls	kids
+380	31	H	Swimming	Most of the ___ in my class swim. 	boys	girls	kids
+381	31	I	Cheerleading	Most of the ___ in my class do cheerleading. 	boys	girls	kids
+382	31	J	Dance	Most of the ___ in my class do dance. 	boys	girls	kids
+383	31	K	Ballet Dance	Most of the ___ in my class do ballet dance. 	boys	girls	kids
+384	31	L	Wrestling	Most of the ___ in my class wrestle. 	boys	girls	kids
